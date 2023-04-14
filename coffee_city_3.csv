@@ -1,0 +1,83 @@
+Compound;Formula;molecular_weight;CAS;city;odor;smiles;Vapor_pressure;retention_time
+Dioxido de carbono;CO2;44;124-38-9;city_3;0;C(=O)=O;17800;5.132
+Acetaldehido ;C2H4O;44;75-07-0;city_3;Beverage;CC=O;910;5.294
+2-propanona ;C3H6O;58;67-64-1;city_3;Chemical-Hydrocar;CC(=O)C;249;6.659
+2-metilfurano;C5H6O;82;534-22-5;city_3;Caramel;CC1=CC=CO1;161;8.752
+4-metoxi-1-buteno;C5H10O;86;4696-30-4;city_3;0;COCCC=C;139;8.954
+2-butanona ;C4H8O;72;78-93-3;city_3;Chemical-Hydrocar;CCC(=O)C;98.5;9.236
+2,3-butanodiona ;C4H6O2;86;431-03-8;city_3;Baked;CC(=O)C(=O)C;70.2;9.516
+Acido acetico metil ester;C3H6O2;74;79-20-9;city_3;Beverage;CC(=O)OC;52.7;9.593
+3-metilbutanal ;C5H10O;86;590-86-3;city_3;Caramel;CC(C)CC=O;51.6;10.472
+2,5-dimetilfurano ;C6H8O;96;625-86-5;city_3;Baked;CC1=CC=C(O1)C;49.4;10.481
+2-vinilfurano ;C6H6O;94;1487-18-9;city_3;0;C=CC1=CC=CO1;38.3;10.732
+1-etilciclopenteno ;C7H12;96;2146-38-5;city_3;0;CCC1=CCCC1;33.3;10.999
+2,3-pentanodiona ;C5H8O2;100;600-14-6;city_3;Baked;CCC(=O)C(=O)C;31.1;11.012
+2-propilfurano ;C7H10O;110;4229-91-8;city_3;0;CCCC1=CC=CO1;19.5;12.429
+1-metil-1H-pirrol ;C5H7N;81;96-54-8;city_3;Aromatic;CN1C=CC=C1;19.5;13.216
+Piridina ;C5H5N;79;110-86-1;city_3;Ammonia;C1=CC=NC=C1;19.3;13.232
+Acido acetico ;C2H4O2;60;64-19-7;city_3;Pungent;CC(=O)O;17.2;13.932
+2-etil-5-metilfurano ;C7H10O;110;1703-52-2;city_3;Burnt;CCC1=CC=C(O1)C;16.7;14.557
+2,4-dimetil-3-pentanona ;C6H10O2;114;565-80-0;city_3;0;CC(C)C(=O)C(C)C;14.9;17.067
+2-metilbutanal ;C5H10O;86;96-17-3;city_3;Baked;CCC(C)C=O;10.4;18.569
+2-vinil-5-metilfurano ;C7H8O;108;10504-13-9;city_3;0;CC1=CC=C(O1)C=C;9.99;21.298
+Pirazina ;C4H4N2;80;290-37-9;city_3;Baked;C1=CN=CC=N1;9.66;22.644
+2-metoximetilfurano ;C6H8O2;112;13679-46-4;city_3;Baked;COCC1=CC=CO1;9.14;22.958
+2-metilpirazina ;C5H6N2;94;109-08-0;city_3;Baked;CC1=NC=CN=C1;7.29;23.544
+2,5-dimetil-ciclopentanona;C7H12O;112;2/09/4041;city_3;0;CC1CCC(C1=O)C;5.99;24.013
+2-metil-2-ciclopent-1-ona ;C6H8O2;96;1120-73-6;city_3;0;CC1=CCCC1=O;3.76;24.349
+Etilpirazina ;C6H8N2;108;13925-00-3;city_3;Baked;CCC1=NC=CN=C1;3.57;25.266
+2,5-dimetilpirazina ;C6H8N2;108;123-32-0;city_3;Baked;CC1=CN=C(C=N1)C;3.18;26.378
+2-propiltiofeno;C7H10S;126;1551-27-5;city_3;0;CCCC1=CC=CS1;2.76;26.729
+2,3-dimetilpirazina ;C6H8N2;108;5910-89-4;city_3;Baked;CC1=NC=CN=C1C;2.74;27.005
+3,7-dimetil-1,3,6-octatrieno;C10H16;136;3779-61-1;city_3;0;CC(=CC/C=C(\C)/C=C)C;2.68;27.436
+Mirceno ;C10H16;136;123-35-3;city_3;Aromatic;CC(=CCCC(=C)C=C)C;2.4;27.688
+2-furanocarboxaldehido ;C5H4O2;96;98-01-1;city_3;Baked;C1=COC(=C1)C=O;2.32;27.84
+Furfurilformato ;C6H6N3;126;13493-97-5;city_3;Baked;C1=COC(=C1)COC=O;2.32;28.097
+3-etilpiridina;C7H9N;107;536-78-7;city_3;Baked;CCC1=CN=CC=C1;1.98;28.443
+Etenilpirazina;C6H6N2;106;4177-16-6;city_3;0;C=CC1=NC=CN=C1;1.8;31.02
+2,6-dimetilpirazina ;C6H8N2;108;108-50-9;city_3;Baked;CC1=CN=CC(=N1)C;1.75;31.643
+Acido butanoico, etenil ester;C6H10O2;114;123-20-6;city_3;0;CCCC(=O)OC=C;1.5;31.987
+2,3,5-trimetilpirazina ;C7H10N2;122;14667-55-1;city_3;Baked;CC1=CN=C(C(=N1)C)C;1.45;32.455
+Limoneno;C10H16;136;138-86-3;city_3;Aromatic;CC1=CCC(CC1)C(=C)C;1.45;32.597
+2-acetil-5-metilfurano ;C7H8O2;124;1193-79-9;city_3;Caramel;CC1=CC=C(O1)C(=O)C;1.26;32.847
+2-pentilfurano ;C9H14O;138;3777-69-3;city_3;Baked;CCCCCC1=CC=CO1;1.2;33.796
+Furfuril acetato;C7H8O3;140;623-17-6;city_3;Food;CC(=O)OCC1=CC=CO1;1.01;34.327
+2-etil-5-metiltiofeno;C7H10S;126;40323-88-4;city_3;Burnt;CCC1=CC=C(S1)C;0.95;34.857
+1-(2-furanil)-etanona;C6H6O2;110;1192-62-7;city_3;Baked;CC(=O)C1=CC=CO1;0.947;35.133
+2-formil-1-metilpirrol;C6H7NO;109;1192-58-1;city_3;Baked;CN1C=CC=C1C=O;0.745;35.428
+3-etil-2,5-dimetilpirazina ;C8H12N2;136;13360-65-1;city_3;Baked;CCC1=NC(=CN=C1C)C;0.745;35.55
+Benzoxazol;C7H5NO;119;273-53-0;city_3;0;C1=CC=C2C(=C1)N=CO2;0.687;35.606
+5-metilfurfural ;C6H6O2;110;620-02-0;city_3;Baked;CC1=CC=C(O1)C=O;0.686;35.896
+1-etoxi-4-metil-benceno;C9H12O;136;622-60-6;city_3;Floral;CCOC1=CC=C(C=C1)C;0.638;36.002
+2-etil-5-metilpirazina ;C7H10N2;122;13360-64-0;city_3;Baked;CCC1=NC=C(N=C1)C;0.608;36.114
+2-etil-6-metilpirazina ;C7H10N2;122;13925-03-6;city_3;Baked;CCC1=NC(=CN=C1)C;0.608;36.855
+1-(2-piridinil)-etanona;C7H7NO;121;1122-62-9;city_3;Woody;CC(=O)C1=CC=CC=N1;0.537;37.096
+1-(1-metil-1Hpirrol-2-yl)-etanona;C7H9NO;123;932-16-1;city_3;Earthy;CC(=O)C1=CC=CN1C;0.49;37.116
+4-ciclopenteno-1,3diona;C5H4O2;96;930-60-9;city_3;0;C1C(=O)C=CC1=O;0.489;37.149
+2-furanmentanol propanoato ;C8H10O3;154;623-19-8;city_3;Floral;CCC(=O)OCC1=CC=CO1;0.463;37.256
+Furfuril alcohol ;C5H6O2;98;98-00-0;city_3;Baked;C1=COC(=C1)CO;0.409;37.407
+5-metil-2-(1-metiletil)-ciclohexanona;C10H18O;154;491-07-6;city_3;0;CC1CCC(C(=O)C1)C(C)C;0.37;37.5
+Fenol ;C6H6O;94;108-95-2;city_3;Chemical-Hydrocar;C1=CC=C(C=C1)O;0.323;37.526
+1-(2-furil)-butan-3-ona;C8H10O2;138;699-17-2;city_3;Caramel;CC(=O)CCC1=CC=CO1;0.31;37.772
+Dihidro-2(3H)-furanona;C4H6O2;86;96-48-0;city_3;Caramel;C1CC(=O)OC1;0.295;39.475
+2,6-dietilpirazina ;C8H12N2;136;13067-27-1;city_3;0;CCC1=CN=CC(=N1)CC;0.192;40.824
+2-etil-3,5-dimetilpirazina ;C8H12N2;136;13925-07-0;city_3;0;CCC1=NC=C(N=C1C)C;0.18;41.351
+3-etil-4-metil-2,5-furandiona;C7H8O3;140;3552-33-8;city_3;0;CCC1=C(C(=O)OC1=O)C;0.174;41.863
+2-metil--5H-6,7-dihidrociclopentapirazina ;C8H10N2;134;23747-48-0;city_3;Baked;CC1CCC2=NC=CN=C12;0.144;42.254
+5-metil-6,7-dihidro-5H)-ciclopentapirazina ;C8H10N2;134;23747-48-0;city_3;Baked;CC1CCC2=NC=CN=C12;0.144;42.254
+N-acetil-4(H)-piridina;C7H9NO;123;67402-83-9;city_3;0;CC(=O)N1C=CCC=C1;0.135;42.79
+2-metoxyfenol ;C7H8O2;124;090-05-1;city_3;0;COc1ccccc1O;0.113;43.033
+2,6-dimetilfenol;C8H10O;122;576-26-1;city_3;Chemical-Hydrocar;CC1=C(C(=CC=C1)C)O;0.105;44.037
+2-acetilpirazina ;C6H6N2O;122;22047-25-2;city_3;Baked;CC(=O)C1=NC=CN=C1;0.0711;44.645
+1-metil-2-ciclopenteno-1-acido carboxilico;C7H10O2;126;68317-77-1;city_3;0;CC1(CCC=C1)C(=O)O;0.062;44.899
+Bencenoacetaldehido;C10H10O;146;4411-89-6;city_3;Caramel;C/C=C(/C=O)\C1=CC=CC=C1;0.0462;45.178
+4-vinilfenol;C8H8O;120;2628-17-3;city_3;Chemical-Hydrocar;C=CC1=CC=C(C=C1)O;0.0362;45.436
+3-acetil-2,5-dimetiltiofeno;C8H10OS;154;1/10/2530;city_3;0;CC1=CC(=C(S1)C)C(=O)C;0.0318;45.623
+N-2-propil-acetoamida ;C5H7NO;97;65881-41-6;city_3;0;CC(=O)NCC#C;0.0296;46.697
+1-(1H-pirrol-2-yl)-etanona;C6H7NO;109;1072-83-9;city_3;Baked;CC(=O)C1=CC=CN1;0.0289;47.057
+Bencenoetanol;C8H10O;122;60-12-8;city_3;Floral;C1=CC=C(C=C1)CCO;0.0243;48.773
+2,2’-[oxibis(metileno)]bis-furano;C10H10O3;178;4437-22-3;city_3;Earthy;C1=COC(=C1)COCC2=CC=CO2;0.0227;49.294
+1-etil-6-metil-2(1H)-piridinona ;C8H11NO;137;19038-36-9;city_3;0;CCN1C(=CC=CC1=O)C;0.00731;50.499
+2-amino-5-metoxi-benzaldehido ;C8H9NO2;151;26831-52-7;city_3;0;COC1=CC(=C(C=C1)N)C=O;0.00162;52.408
+3-etil-2-hidroxi-2-ciclopenten-1-ona;C7H10O2;126;21835-01-8;city_3;Baked;CCC1=C(C(=O)CC1)O;0.00103;55.179
+2,5 piperazinadiona ;C4H6N2O2;114;106-57-0;city_3;0;C1C(=O)NCC(=O)N1;3.35E-08;55.459
